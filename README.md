@@ -1,3 +1,5 @@
+Sarthi Bot 🤖
+
 A dual-interface chatbot system that connects vendors with suppliers for efficient procurement of raw materials.
 VendorBot helps small food vendors find and negotiate with local suppliers, while SupplierBot enables suppliers to list their products and manage pricing.
 
